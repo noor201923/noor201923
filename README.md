@@ -1,4 +1,4 @@
-# 👩‍💻 Noor e Aqsa
+👋 Hello, I'm Noor e Aqsa!
 
 **Full-Stack Developer**  
 React.js • Next.js • PHP • MySQL  
